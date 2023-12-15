@@ -1,0 +1,72 @@
+{
+  "output_default": "\\\\POSEIDON\\shared\\",
+  "output_tvshows": "\\\\POSEIDON\\torrents-tvshows\\",
+  "output_movies": "\\\\POSEIDON\\torrents-movies\\",
+  "output_books": "\\\\POSEIDON\\torrents-books\\",
+  "keywords_tvshows": [
+    "Ahsoka",
+    "American Dad",
+    "Archer",
+    "Beacon 23",
+    "Doom Patrol",
+    "Family Guy",
+    "Frasier",
+    "Futurama",
+    "Gen V",
+    "Jack Ryan",
+    "Justified City Primeval",
+    "Loki",
+    "Love Island",
+    "Mandalorian",
+    "Reacher",
+    "Rick and Morty",
+    "Secret Invasion",
+    "Silo",
+    "Star Trek",
+    "The Continental",
+    "The Simpsons",
+    "The Wheel of Time",
+    "The Witcher",
+    "Special Ops Lioness"
+  ],
+  "rss_urls_tvshows": [
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;25;download;new",
+      "comment": "New TV DVD-Rip"
+    },
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;99;download;new",
+      "comment": "New TV x265"
+    },
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;22;download;new",
+      "comment": "New TV Web-DL"
+    },
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;5;download;new",
+      "comment": "New TV x264"
+    },
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;pins;download;new",
+      "comment": "New Recommended"
+    }
+  ],
+  "rss_urls_books": [
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;95;download;new",
+      "comment": "New Educational"
+    },
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;92;download;new",
+      "comment": "New Magazines"
+    },
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;98;download;new",
+      "comment": "New Fonts"
+    },
+    {
+      "url": "https://iptorrents.com/t.rss?u=1144042;tp=cbf3fcf107c4538a9173264b8c5ee74b;35;download;new",
+      "comment": "New Books"
+    }
+  ]
+}
